@@ -1,0 +1,365 @@
+[
+  {
+    "id": "aqua_affinity",
+    "name": "Aqua Affinity",
+    "maxLevel": 1,
+    "description": "Aumenta la velocidad de minado bajo el agua.",
+    "items": [
+      "armadura"
+    ]
+  },
+  {
+    "id": "bane_of_arthropods",
+    "name": "Bane of Arthropods",
+    "maxLevel": 5,
+    "description": "Aumenta el daño contra mobs artrópodos.",
+    "items": [
+      "espada"
+    ]
+  },
+  {
+    "id": "blast_protection",
+    "name": "Blast Protection",
+    "maxLevel": 4,
+    "description": "Reduce el daño por explosiones.",
+    "items": [
+      "armadura"
+    ]
+  },
+  {
+    "id": "channeling",
+    "name": "Channeling",
+    "maxLevel": 1,
+    "description": "Invoca un rayo cuando un tridente golpea durante tormentas.",
+    "items": [
+      "tridente"
+    ]
+  },
+  {
+    "id": "binding_curse",
+    "name": "Curse of Binding",
+    "maxLevel": 1,
+    "description": "Hace que una pieza de armadura no se pueda quitar hasta morir.",
+    "items": [
+      "armadura"
+    ]
+  },
+  {
+    "id": "vanishing_curse",
+    "name": "Curse of Vanishing",
+    "maxLevel": 1,
+    "description": "Hace que el objeto desaparezca al morir.",
+    "items": [
+      "espada",
+      "arco",
+      "pico",
+      "armadura",
+      "tridente",
+      "ballesta",
+      "caña",
+      "elytra"
+    ]
+  },
+  {
+    "id": "depth_strider",
+    "name": "Depth Strider",
+    "maxLevel": 3,
+    "description": "Aumenta la velocidad de movimiento bajo el agua.",
+    "items": [
+      "armadura"
+    ]
+  },
+  {
+    "id": "efficiency",
+    "name": "Efficiency",
+    "maxLevel": 5,
+    "description": "Aumenta la velocidad de minado.",
+    "items": [
+      "pico"
+    ]
+  },
+  {
+    "id": "feather_falling",
+    "name": "Feather Falling",
+    "maxLevel": 4,
+    "description": "Reduce el daño por caída.",
+    "items": [
+      "armadura"
+    ]
+  },
+  {
+    "id": "fire_aspect",
+    "name": "Fire Aspect",
+    "maxLevel": 2,
+    "description": "Prende fuego a los mobs golpeados.",
+    "items": [
+      "espada"
+    ]
+  },
+  {
+    "id": "fire_protection",
+    "name": "Fire Protection",
+    "maxLevel": 4,
+    "description": "Reduce el daño por fuego y tiempo de quemadura.",
+    "items": [
+      "armadura"
+    ]
+  },
+  {
+    "id": "flame",
+    "name": "Flame",
+    "maxLevel": 1,
+    "description": "Las flechas prenden fuego.",
+    "items": [
+      "arco"
+    ]
+  },
+  {
+    "id": "fortune",
+    "name": "Fortune",
+    "maxLevel": 3,
+    "description": "Aumenta la cantidad de recursos obtenidos al minar.",
+    "items": [
+      "pico"
+    ]
+  },
+  {
+    "id": "frost_walker",
+    "name": "Frost Walker",
+    "maxLevel": 2,
+    "description": "Congela el agua al caminar sobre ella.",
+    "items": [
+      "armadura"
+    ]
+  },
+  {
+    "id": "impaling",
+    "name": "Impaling",
+    "maxLevel": 5,
+    "description": "Aumenta el daño contra mobs acuáticos.",
+    "items": [
+      "tridente"
+    ]
+  },
+  {
+    "id": "infinity",
+    "name": "Infinity",
+    "maxLevel": 1,
+    "description": "Dispara flechas infinitas si tienes al menos una.",
+    "items": [
+      "arco"
+    ]
+  },
+  {
+    "id": "knockback",
+    "name": "Knockback",
+    "maxLevel": 2,
+    "description": "Empuja a los mobs al golpear.",
+    "items": [
+      "espada"
+    ]
+  },
+  {
+    "id": "looting",
+    "name": "Looting",
+    "maxLevel": 3,
+    "description": "Aumenta los drops de mobs.",
+    "items": [
+      "espada"
+    ]
+  },
+  {
+    "id": "loyalty",
+    "name": "Loyalty",
+    "maxLevel": 3,
+    "description": "El tridente regresa al jugador.",
+    "items": [
+      "tridente"
+    ]
+  },
+  {
+    "id": "luck_of_the_sea",
+    "name": "Luck of the Sea",
+    "maxLevel": 3,
+    "description": "Aumenta la probabilidad de obtener tesoros al pescar.",
+    "items": [
+      "caña"
+    ]
+  },
+  {
+    "id": "lure",
+    "name": "Lure",
+    "maxLevel": 3,
+    "description": "Aumenta la frecuencia con que pican los peces.",
+    "items": [
+      "caña"
+    ]
+  },
+  {
+    "id": "mending",
+    "name": "Mending",
+    "maxLevel": 1,
+    "description": "Repara el objeto usando experiencia.",
+    "items": [
+      "espada",
+      "arco",
+      "pico",
+      "armadura",
+      "tridente",
+      "ballesta",
+      "caña",
+      "elytra"
+    ]
+  },
+  {
+    "id": "multishot",
+    "name": "Multishot",
+    "maxLevel": 1,
+    "description": "Dispara tres flechas al mismo tiempo.",
+    "items": [
+      "ballesta"
+    ]
+  },
+  {
+    "id": "piercing",
+    "name": "Piercing",
+    "maxLevel": 4,
+    "description": "Permite que las flechas atraviesen múltiples enemigos.",
+    "items": [
+      "ballesta"
+    ]
+  },
+  {
+    "id": "power",
+    "name": "Power",
+    "maxLevel": 5,
+    "description": "Aumenta el daño de las flechas.",
+    "items": [
+      "arco"
+    ]
+  },
+  {
+    "id": "projectile_protection",
+    "name": "Projectile Protection",
+    "maxLevel": 4,
+    "description": "Reduce el daño recibido por proyectiles.",
+    "items": [
+      "armadura"
+    ]
+  },
+  {
+    "id": "protection",
+    "name": "Protection",
+    "maxLevel": 4,
+    "description": "Reduce el daño general recibido.",
+    "items": [
+      "armadura"
+    ]
+  },
+  {
+    "id": "punch",
+    "name": "Punch",
+    "maxLevel": 2,
+    "description": "Aumenta el retroceso de las flechas.",
+    "items": [
+      "arco"
+    ]
+  },
+  {
+    "id": "quick_charge",
+    "name": "Quick Charge",
+    "maxLevel": 3,
+    "description": "Reduce el tiempo de recarga de la ballesta.",
+    "items": [
+      "ballesta"
+    ]
+  },
+  {
+    "id": "respiration",
+    "name": "Respiration",
+    "maxLevel": 3,
+    "description": "Permite respirar más tiempo bajo el agua.",
+    "items": [
+      "armadura"
+    ]
+  },
+  {
+    "id": "riptide",
+    "name": "Riptide",
+    "maxLevel": 3,
+    "description": "Permite impulsarte con el tridente bajo lluvia o agua.",
+    "items": [
+      "tridente"
+    ]
+  },
+  {
+    "id": "sharpness",
+    "name": "Sharpness",
+    "maxLevel": 5,
+    "description": "Aumenta el daño total del arma.",
+    "items": [
+      "espada"
+    ]
+  },
+  {
+    "id": "silk_touch",
+    "name": "Silk Touch",
+    "maxLevel": 1,
+    "description": "Permite recoger bloques enteros en lugar de sus drops.",
+    "items": [
+      "pico"
+    ]
+  },
+  {
+    "id": "smite",
+    "name": "Smite",
+    "maxLevel": 5,
+    "description": "Aumenta el daño contra mobs no muertos.",
+    "items": [
+      "espada"
+    ]
+  },
+  {
+    "id": "soul_speed",
+    "name": "Soul Speed",
+    "maxLevel": 3,
+    "description": "Aumenta la velocidad sobre arena de almas.",
+    "items": [
+      "armadura"
+    ]
+  },
+  {
+    "id": "sweeping_edge",
+    "name": "Sweeping Edge",
+    "maxLevel": 3,
+    "description": "Aumenta el daño de los ataques en barrido.",
+    "items": [
+      "espada"
+    ]
+  },
+  {
+    "id": "thorns",
+    "name": "Thorns",
+    "maxLevel": 3,
+    "description": "Devuelve parte del daño al atacante.",
+    "items": [
+      "armadura"
+    ]
+  },
+  {
+    "id": "unbreaking",
+    "name": "Unbreaking",
+    "maxLevel": 3,
+    "description": "Reduce la pérdida de durabilidad del objeto.",
+    "items": [
+      "espada",
+      "arco",
+      "pico",
+      "armadura",
+      "tridente",
+      "ballesta",
+      "caña",
+      "elytra"
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "id": "espada",
+        "name": "Espada",
+        "icon": "sword.png"
+    },
+    {
+        "id": "arco",
+        "name": "Arco",
+        "icon": "bow.png"
+    },
+    {
+        "id": "pico",
+        "name": "Pico",
+        "icon": "pickaxe.png"
+    },
+     {
+        "id": "hacha",
+        "name": "Hacha",
+        "icon": "pickaxe.png"
+    },
+     {
+        "id": "pala",
+        "name": "Pala",
+        "icon": "pickaxe.png"
+    },
+     {
+        "id": "azada",
+        "name": "Azada",
+        "icon": "pickaxe.png"
+    },
+    {
+        "id": "armadura",
+        "name": "Armadura (Casco, Pechera, Pantalones, Botas)",
+        "icon": "armor.png"
+    },
+    {
+        "id": "tridente",
+        "name": "Tridente",
+        "icon": "trident.png"
+    },
+    {
+        "id": "ballesta",
+        "name": "Ballesta",
+        "icon": "crossbow.png"
+    },
+    {
+        "id": "caña",
+        "name": "Caña de pescar",
+        "icon": "fishing_rod.png"
+    },
+    {
+        "id": "elytra",
+        "name": "Elytra",
+        "icon": "elytra.png"
+    }
+]
